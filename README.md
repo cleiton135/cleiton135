@@ -1,4 +1,4 @@
-👋 Olá! Meu nome é Cleiton, tenho 25 anos e estou embarcando em uma emocionante jornada de transição de carreira para o mundo da tecnologia.
+👋 Olá! Meu nome é Cleiton, tenho 26 anos e estou embarcando em uma emocionante jornada de transição de carreira para o mundo da tecnologia.
 
 🔧 Como um ex-borracheiro desde os 13 anos de idade, estou agora focado em me especializar como desenvolvedor front-end, enquanto continuo meu curso de tecnologia com ênfase em fullstack.
 
